@@ -11,7 +11,6 @@ Pre-built image is hosted on Docker Hub (coming soon):
 Contains:
 
 - The ability to produce grasps on a scene using VGN's pretrained models
-- GUI with docker is still a work in progress
 
 ## Requirements
 
@@ -117,6 +116,5 @@ docker rmi flynnbm/arm_driver_ws:jazzy
 
 ## Future Improvements
 
-- Add more robot embodiments
-- Add further instructions for creating and spawning models into scene
+- Add directions for where someone could collect and train their own model
 - Add some images to the instructions to make setup more clear
